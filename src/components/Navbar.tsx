@@ -15,6 +15,7 @@ export default function Navbar() {
     { name: "Forum", link: "/forum" },
     { name: "Artikel", link: "/artikel" },
     { name: "Profile", link: "/profile" },
+    { name: "Analis", link: "/face-scanner" },
   ];
   return (
     <motion.nav
