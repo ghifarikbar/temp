@@ -2,7 +2,7 @@ import { cn } from "@/lib/utils";
 import { Link, NavLink } from "react-router-dom";
 import { Button } from "./ui/button";
 import { useMediaQuery } from "@/hooks/use-media-query";
-import { Menu, MenuIcon } from "lucide-react";
+import { MenuIcon } from "lucide-react";
 import { Drawer, DrawerContent, DrawerTrigger } from "./ui/drawer";
 import { motion } from "framer-motion";
 
