@@ -140,7 +140,7 @@ export default function Home() {
 
       {/* Artikel Part */}
       <div className="h-full w-full bg-[#2E323A]">
-        <div className="px-0 lg:px-36">
+        <div className="px-0 xl:px-36">
           <div className="container flex flex-col items-center gap-1 pb-6 pt-20">
             <h1 className="text-5xl font-extrabold text-[#F4F4F4]">Artikel</h1>
             <p className="w-full text-center text-xl leading-relaxed text-[#B8B8C4] lg:w-5/6 lg:text-2xl">
@@ -191,7 +191,7 @@ export default function Home() {
 
       {/* Face Scanner Part */}
       <div className="container pt-20">
-        <div className="px-0 lg:px-36">
+        <div className="px-0 xl:px-36">
           <div className="flex flex-col items-center">
             <h1 className="text-5xl font-extrabold text-[#CDB16E]">
               <span className="text-[#2E323A]">Face </span>Scanner
@@ -232,7 +232,7 @@ export default function Home() {
 
       {/* Review Part */}
       <div id="review" className="container  pt-20 lg:container">
-        <div className="justify-cente flex flex-col items-center px-0 lg:px-36">
+        <div className="justify-cente flex flex-col items-center px-0 xl:px-36">
           <div className="flex flex-col items-center justify-center gap-3 text-[#2E323A]">
             <h1 className="text-5xl font-extrabold">Review</h1>
             <p className="text-center text-2xl ">
