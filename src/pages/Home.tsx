@@ -66,7 +66,7 @@ export default function Home() {
               }}
               style={{
                 backgroundImage:
-                  "linear-gradient(0deg, rgba(15,14,14,1) 0%, rgba(0,0,0,0.2862394957983193) 95%), url('/images/landing-1.png')",
+                  "linear-gradient(0deg, rgba(15,14,14,1) 0%, rgba(0,0,0,0.2862394957983193) 95%), url('/images/landing-1.jpg')",
                 backgroundSize: "cover",
                 backgroundRepeat: "no-repeat",
                 backgroundPosition: "center",
