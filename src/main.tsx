@@ -23,6 +23,7 @@ import Article from "./pages/Article.tsx";
 
 import Error from "./pages/Error.tsx";
 import Root from "./Root.tsx";
+import Forum from "./pages/Forum.tsx";
 
 // Check the documentation for more information: https://reactrouter.com/en/main/start/overview
 
@@ -43,6 +44,7 @@ const router = createBrowserRouter(
       </Route>
 
       <Route path="/artikel" element={<Article />} />
+      <Route path="/forum" element={<Forum />} />
 
       <Route path="*" element={<NotFound />} />
     </Route>
